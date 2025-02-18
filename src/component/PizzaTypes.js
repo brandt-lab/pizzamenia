@@ -3,6 +3,7 @@ import React from 'react'
 function PizzaTypes() {
   return (
     <div>
+<h1>THE DON PIZZA</h1>
       <div class="container thumcontainer">
     <div class="row">
       <h3 class="text-center pizaTYPES">Pizza Types</h3>
